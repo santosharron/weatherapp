@@ -1,13 +1,5 @@
 
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/xidhu/weNow-App/master/lib/assets/repo/app_banner.svg?token=APOIDJDNTCIVRQ2DTOHNBLLAVPXGC" width=700>
-</p>
-
-
-
-# WeNow
+# Epic Weather
 WeNow is a simple weather forecast app, which uses [WeNowAPI](https://we-now.herokuapp.com/) to fetch 8 day / 1 hour forecasted data from the [OpenWeather](https://openweathermap.org/) and also provides places,cities,counties,coords etc.
 #### [WeNowAPI](https://github.com/xidhu/weNow-API/)
 
