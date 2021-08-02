@@ -44,13 +44,6 @@ WeNow is a simple weather forecast app, which uses [WeNowAPI](https://we-now.her
 
 
 
-# Contribution
-
-See [contributing.markdown][5] for details.
-
-# Support
-
-See  the [issue page][6]  for any kind of support.
 
 # License
 
