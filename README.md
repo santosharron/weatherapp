@@ -10,8 +10,6 @@ Epic Weather is a simple weather forecast app, which uses [WeNowAPI](https://we-
 * Hourly forecast data of 2 days.
 * Weather alerts.
 
-[![Let's fund issues in this repository](https://issuehunt.io/static/embed/issuehunt-button-v1.svg)](https://issuehunt.io/r/xidhu/weNow-App)
-
 ## Features
 * Live in-app database
 * Simple UI
