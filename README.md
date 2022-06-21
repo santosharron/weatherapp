@@ -46,6 +46,3 @@ Epic Weather is a simple weather forecast app, which uses [WeNowAPI](https://we-
 # License
 
 MIT 
-
-[5]: https://github.com/xidhu/xidhu/blob/main/CONTRIBUTING.md
-[6]: https://github.com/xidhu/weNow-App/issues
